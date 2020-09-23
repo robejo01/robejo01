@@ -12,4 +12,5 @@ Currently lending a hand whenever and where ever I can for my children's online 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/therobertejonesjr/)](https://www.linkedin.com/in/therobertejonesjr/)
 
-**[ ¯\_(ツ)_/¯   wha.dev   ¯\_(ツ)_/¯ ](https://wha.dev)**
+<span class="emoji">
+**[ ¯\_(ツ)_/¯   wha.dev   ¯\_(ツ)_/¯ ](https://wha.dev)**</span>
