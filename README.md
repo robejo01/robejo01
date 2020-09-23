@@ -11,6 +11,7 @@ Currently lending a hand whenever and where ever I can for my children's online 
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
 
 
 ### Find me elsewhere
