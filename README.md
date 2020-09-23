@@ -8,6 +8,11 @@ I'm always trying to grow and learn new things.
 
 Currently lending a hand whenever and where ever I can for my children's online schooling.  I'm also actively seeking gainful employment with a new awesome company!
 
+### Technologies & Tools
+
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<linux>&logoColor=white&color=2bbc8a)
+
+
 ### Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/therobertejonesjr/)](https://www.linkedin.com/in/therobertejonesjr/)
