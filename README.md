@@ -15,7 +15,7 @@ Currently lending a hand whenever and where ever I can for my children's online 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=njs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
