@@ -8,7 +8,7 @@ I'm always trying to grow and learn new things.
 
 Currently lending a hand whenever and where ever I can for my children's online schooling.  I'm also actively seeking gainful employment with a new awesome company!
 
-### Technologies & Tools
+### Technologies & Tools 🔧
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
