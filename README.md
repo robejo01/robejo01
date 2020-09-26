@@ -1,10 +1,10 @@
-### Hey, I'm Robert Jones!
+### Hey, I'm Robert Jones! :wave:
 
 I a well-established IT leader with a passion for design, storage, and development.  Having progressed through a series of roles over more than 12 years, I am excited to apply my skills to produce immediate results as a valuable member of a new team!
 
 I'm always trying to grow and learn new things.
 
-### What I'm focusing on
+### What I'm focusing on :camera:
 
 Currently lending a hand whenever and where ever I can for my children's online schooling.  I'm also actively seeking gainful employment with a new awesome company!
 
@@ -25,7 +25,7 @@ Currently lending a hand whenever and where ever I can for my children's online 
 ![](https://img.shields.io/badge/Cloud-Microsoft-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
 
-### Find me elsewhere
+### Find me elsewhere :earth_americas: :computer:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/therobertejonesjr/)](https://www.linkedin.com/in/therobertejonesjr/)
 
