@@ -6,7 +6,7 @@ I'm always trying to grow and learn new things.
 
 ### What I'm focusing on :camera:
 
-Currently lending a hand whenever and where ever I can for my children's online schooling.  I'm also actively seeking gainful employment with a new awesome company!
+Currently lending a hand whenever and where ever I can for my children's online schooling.
 
 ### Technologies & Tools 🔧
 
